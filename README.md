@@ -7,6 +7,13 @@ This module focuses on **Proof by Induction** and **Asymptotic Analysis**
 
 ---
 
+## 🧩 Whatsapp
+Join the Whatsapp group:  
+
+🔗 [Click here to join](https://chat.whatsapp.com/JF7dF3dWaOk4wxKwmYMylK)
+
+---
+
 ## 👩‍🏫 Course Staff
 
 **Lecturer:** Havana Rika  
